@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jurgwem
 - 👀 I’m interested in Computer Science, Game Development and 3D-Art
-- 🌱 I’m currently learning information technology assistant (ITA)
+- 🌱 I’m currently learning information technology assistant (ITA), Blender and the basics of Java
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: Jurgwem@outlook.de
 - 😄 Pronouns: he/him
